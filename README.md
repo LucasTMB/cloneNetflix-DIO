@@ -1,6 +1,6 @@
 # Clone da Netflix
 
-<img src="netflixClone.png" alt="Imagem mostrando a tela inicial do clone da Netflix">
+<img src="public/img/netflixClone.png" alt="Imagem mostrando a tela inicial do clone da Netflix">
 
 > Projeto que recria a página de filmes da Netflix. Foram utilizados: HTML, CSS, JavaScript, Node e o consumo da API do TMDB.
 
@@ -67,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/LucasTMB">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Lucas Teixeira no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/94722696?v=4" width="100px;" alt="Foto do Lucas Teixeira no GitHub"/><br>
         <sub>
           <b>Lucas Teixeira</b>
           <b>(Aluno)</b>
@@ -76,7 +76,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars.githubusercontent.com/u/94722696?v=4" width="100px;" alt="Foto do Felipe Aguiar no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/37452836?v=4" width="100px;" alt="Foto do Felipe Aguiar no GitHub"/><br>
         <sub>
           <b>Felipe Aguiar</b>
           <b>(Professor)</b>
