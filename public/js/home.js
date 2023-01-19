@@ -59,7 +59,9 @@ const makeCards = (id, data) => {
 
         movieContainer.innerHTML +=  `
                 <div class="movie">
-                    <img src="${img_url}${item.backdrop_path}" alt="Poster">
+                    <div class="movie-img">
+                        <img src="${img_url}${item.backdrop_path}" alt="Poster">
+                    </div>
                     <p class="movie-title">${item.title}</p>
                 </div>
         `
